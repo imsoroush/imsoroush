@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @imsoroush
-- 👀 I’m interested in artificial intelligence
-- 🌱 I’m currently learning application of machine learning algorithms to bioinformatics
-- 💞️ I’m looking to collaborate on Machine learning in bioinformatics
 - 📫 How to reach me : soroushmeh96@gmail.com
 
 <!---
